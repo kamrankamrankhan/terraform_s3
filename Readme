@@ -1,0 +1,21 @@
+# Terraform AWS S3 Bucket
+
+This repository contains Terraform code to create an Amazon S3 bucket in AWS. The code is designed for simplicity and ease of understanding, making it easy for users to provision an S3 bucket using Terraform.
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- [Terraform](https://www.terraform.io/downloads.html) (version >= 0.12)
+- An [AWS account](https://aws.amazon.com/)
+- AWS CLI configured with your credentials. You can set this up by running `aws configure`.
+
+## Getting Started
+
+### Clone the Repository
+
+You can clone this repository using the following command:
+
+```bash
+git clone https://github.com/yourusername/your-repo.git
+cd your-repo
